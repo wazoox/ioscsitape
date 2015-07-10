@@ -1,5 +1,5 @@
 # ioscsitape
-# Automatically exported from code.google.com/p/ioscsitape
+
 
 SCSI Tape driver for Mac OS X. This allows for standard utilities like `tar` to directly read and write to tape.
 
@@ -9,4 +9,5 @@ IOSCSITape provides a typical Unix-like character device file (e.g. `/dev/rst0`)
 
 **BE ADVISED:** IOSCSITape is not yet intended for production use. It has had limited testing on a very limited set of hardware and is still in early development. Use at your own risk.
 
+This was automatically exported from code.google.com/p/ioscsitape
 The original author has imported IOSCSITape here: https://github.com/jessepeterson/IOSCSITape
